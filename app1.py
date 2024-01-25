@@ -1,15 +1,3 @@
-# import pandas as pd
-
-# def UserEntry(Name,Phone,Email):
-#     data = pd.read_csv("data.csv",encoding="utf-8",)
-#     dict = {"name":Name,"phone":Phone,'email':Email}
-#     data.loc[len(data)]= dict
-#     data.to_csv("data.csv",encoding="utf-8",index=False)
-
-# UserEntry("faiz","8779834739","faiz_khatri@gmail.com")
-
-
-
 import streamlit as st
 import pandas as pd
 
